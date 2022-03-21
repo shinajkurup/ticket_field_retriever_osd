@@ -1,0 +1,32 @@
+.active{
+    color: white;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.listgroup{
+    margin-top: 5px;
+    font-size: 13px;
+    list-style-type: none;
+    /* border-right: 1px solid black; */
+}
+
+ul li {
+    padding-left: 5px;
+    background: lightgray;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+ul li:last-child{
+    border-bottom: 1px solid black;
+}
+
+ul li:hover:not(.active){
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+}

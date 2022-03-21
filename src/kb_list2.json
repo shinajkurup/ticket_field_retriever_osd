@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+    "product": "Outlook",
+    "scenario" : "Not able to sync mail",
+    "kb" : "kb10000",
+    "url" : "https:/google.com",
+    "resolution/Category" : "Android OS",
+    "description" : "ssssssssssssssssssss"
+},
+    {
+        "id": 2,
+    "product": "Outlook",
+    "scenario" : "Not able to sync mail",
+    "kb" : "kb10001",
+    "url" : "https:/google.com",
+    "resolutionCategory" : "Android OS",
+    "description" : "ssssssssssssssssssss"
+},
+    {
+        "id": 3,
+    "product": "Skype",
+    "scenario" : "Cant messages",
+    "kb" : "kb10002",
+    "url" : "https:/google.com",
+    "resolutionCategory" : "Android OS",
+    "description" : "ssssssssssssssssssss"
+}
+]
